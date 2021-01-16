@@ -12,7 +12,7 @@ Please take a look to test I created.
 * Java 11, higher or lower version of Java can make the code break
 * Gradle 6.7, Please use the wrapped gradle builder
 
-# Tests
+# Build & Tests
 ```
 ./gradlew clean build
 ```
