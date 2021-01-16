@@ -1,6 +1,7 @@
 # CoderByte test
 
 Coder by back problems was having timeouts to submit the codes.
+Please take a look to screenshot added that show timeout
 ```
 NOTE: The rest of the problems are Submitted in CoderByte 
 ```
